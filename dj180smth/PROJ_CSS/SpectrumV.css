@@ -1,0 +1,39 @@
+div.a{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+/* div.b{
+    text-align: center;
+} */
+table{
+    margin-right: auto;
+    margin-left: auto;
+    border-spacing: 20px;
+}
+td{
+    padding: 100px 50px;
+}
+.class1{
+    background-color: #171219;
+}
+.class2{
+    background-color: #225560;
+}
+.class3{
+    background-color: #EDF060;
+}
+.class4{
+    background-color: #F0803C;
+}
+.class5{
+    background-color: #310D20;
+}
+.class7{
+    background-color: #553746;
+}
+
