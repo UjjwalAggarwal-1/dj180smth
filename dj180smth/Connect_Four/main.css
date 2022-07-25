@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+}
+div.flex > div{
+    color:rgba(0, 0, 0,0.82);
+}
+i{
+    font-size: 5em;
+    background-color: rgb(158, 158, 158);
+    margin:1%;
+    border-radius: 100%;
+}
+i:hover{
+    background-color: beige;
+}
