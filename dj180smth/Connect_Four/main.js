@@ -3,3 +3,4 @@ const A = "B"
 const B = "A"
 // const B = window.prompt("Enter Player Two's Name:")
 
+$('#player_id').css('color','pink')
