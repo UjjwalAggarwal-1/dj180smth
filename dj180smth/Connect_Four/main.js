@@ -1,6 +1,6 @@
 const A = "B"
-// const A = window.prompt("Enter Player One's Name:")
 const B = "A"
+// const A = window.prompt("Enter Player One's Name:")
 // const B = window.prompt("Enter Player Two's Name:")
 
 $('#player_id').css('color','pink')
