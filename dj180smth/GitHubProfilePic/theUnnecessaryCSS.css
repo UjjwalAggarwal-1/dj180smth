@@ -1,0 +1,10 @@
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0px;
+    transform:rotate(270deg);
+}
+.table td{
+    height: 50px;
+    width: 50px;
+}
